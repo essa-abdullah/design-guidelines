@@ -41,7 +41,7 @@ Adhere to the design size system for mobile, tablet, and web to maintain consist
 - **Performance**: Ensure animations do not negatively impact performance.
 - **Consistency**: Maintain consistency in animation styles and durations across the application.
 
-## Miscellaneous
+## Additional Guidelines
 - **Gradients and Alignment**: Avoid using alignment outside the frame when working with gradients.
 - **Naming Conventions**: Use clear and consistent naming conventions for design files and layers to facilitate collaboration.
 - **Figma Components**: Make sure to use Figma components to get border radius, such as using rectangular or frame components in Figma.
